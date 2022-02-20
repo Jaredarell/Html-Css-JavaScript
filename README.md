@@ -1,2 +1,3 @@
 # Html-Css-JavaScript
-Learning some tecnologies.
+
+Aqui aprenderemos un poco acerca de los lenguajes Html, y Css.
